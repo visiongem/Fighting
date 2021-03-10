@@ -1,0 +1,19 @@
+# Site settings
+name: 彭燕妮
+location: 深圳
+company: FCSC
+position: Android开发工程师
+github: https://github.com/visiongem
+wechat: visionxi
+phone: 136 4731 5524
+email: 393507488@qq.com
+
+baseurl: "/Fighting"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
