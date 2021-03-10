@@ -3,6 +3,7 @@
 欢迎来到我的简历！
 
 It's me。👋
+<<<<<<< HEAD
 
 2. 修改个人头像信息
 
@@ -77,3 +78,5 @@ Configuration file: C:/..../resume.io/_config.yml
 
 ## 开源协议
 [MIT](https://gitee.com/xiaodan_yu/resume.io/blob/master/LICENSE)
+=======
+>>>>>>> 3c78a0746834e85608e88a47ab66c5ec7b8d1b2d
